@@ -10,28 +10,28 @@ public class IFStatment : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
-            TemperatureTest(); 
+            TemperatureTest();
 
         coffeeTemperature -= Time.deltaTime * 5f;
     }
 
-    void TemperatureTest ()
+    void TemperatureTest()
     {
         // If the coffee's temperature is greater than the hottest drinking Temperature...
-        if(coffeeTemperature > hotLimitTemperature)
+        if (coffeeTemperature > hotLimitTemperature)
         {
             //... do this.
             print("Coffee is too hot.");
         }
         // If it isn't, but the coffee temperature is less than the coldest drinking temperature...
-        else if(coffeeTemperature < coldLimitTemperature)
+        else if (coffeeTemperature < coldLimitTemperature)
         {
             // ... do this.
             print("Coffee is too cold.");
