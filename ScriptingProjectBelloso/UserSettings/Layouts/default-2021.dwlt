@@ -120,7 +120,19 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 112
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  controlID: 21
+=======
+  controlID: 112
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+=======
+  controlID: 112
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+>>>>>>> Stashed changes
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +157,19 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 81
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  controlID: 64
+=======
+  controlID: 81
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+=======
+  controlID: 81
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+>>>>>>> Stashed changes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +247,19 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 92
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  controlID: 102
+=======
+  controlID: 92
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+=======
+  controlID: 92
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,7 +278,19 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 419
+<<<<<<< Updated upstream
     height: 413
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    height: 417
+=======
+    height: 413
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+=======
+    height: 413
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+>>>>>>> Stashed changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -294,7 +342,19 @@ MonoBehaviour:
     x: 1422
     y: 0
     width: 498
+<<<<<<< Updated upstream
     height: 939
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    height: 947
+=======
+    height: 939
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+=======
+    height: 939
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+>>>>>>> Stashed changes
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
@@ -391,7 +451,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -758,9 +818,27 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: 06810000
       m_LastClickedID: 33030
       m_ExpandedIDs: 70d0ffffb6d0ffffd8d2ffff
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      m_SelectedIDs: 38810000
+      m_LastClickedID: 33080
+      m_ExpandedIDs: 86d0ffffc4d0ffff56d1ffff94d1ffffd4d2ffff
+=======
+      m_SelectedIDs: 06810000
+      m_LastClickedID: 33030
+      m_ExpandedIDs: 70d0ffffb6d0ffffd8d2ffff
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+=======
+      m_SelectedIDs: 06810000
+      m_LastClickedID: 33030
+      m_ExpandedIDs: 70d0ffffb6d0ffffd8d2ffff
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -867,21 +945,33 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: ffffffffa8800000d0800000
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_ExpandedIDs: ffffffffaa800000d2800000
+=======
+    m_ExpandedIDs: ffffffffa8800000d0800000
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+=======
+    m_ExpandedIDs: ffffffffa8800000d0800000
+>>>>>>> 41a69a31a4f8c0b898a8630d4e1d3fa5f04498b8
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: IfStatements
+      m_OriginalName: IfStatements
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 32986
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
